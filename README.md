@@ -1,4 +1,4 @@
-![logo]([./github-header-image.png](https://github.com/nishantdhakde/practice1/blob/master/github-header-image.png?raw=true))
+![logo](https://github.com/nishantdhakde/nishantdhakde/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Nishant Dhakde</h1>
 <h3 align="center">A Creative Software Developer From Maharashtra</h3>
 
